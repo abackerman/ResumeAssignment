@@ -1,0 +1,41 @@
+html {
+    background-size: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #4c5760;
+    
+}
+
+
+h1 {
+    background-color: #B8C5CE;
+    font-family: 'Arial', Helvetica, sans-serif;
+    font-size: 72px;
+    text-align: center;
+    margin-top:  25px;
+    margin-bottom: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h2 {
+    font-family: 'Arial', Helvetica, sans-serif;
+    color: #E86252;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-color: #4c5760;
+}
+section {
+    background-color: #F3C969;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding: 10px;
+
+}
+footer a:link {
+    color:#F3C969;
+    font-style: italic;
