@@ -1,24 +1,56 @@
-html {
+/* colors
+silver sands #b8c5ce
+brilliant rose #ff499e
+middle green yellow #abb557
+june bud #bed558
+black coral #4c5760
+
+#EEF36A   Icterine yellow
+#F64740    Tart Orange
+______________________________________________________________*/
+body {
     background-size: auto;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
     line-height: 1.5;
     color: #4c5760;
+    margin: 0;
+    padding: 0:
     
+}
+/* Header
+______________________________________________________________*/
+header {
+    background-color: #b8c5ce;
+    color: #4c5760;
+    text-align: center;
+    padding: 40px;
+    margin: auto;
 }
 
 
+img {
+    width: 300px;
+}
+
+/* Profile
+______________________________________________________________*/
 h1 {
-    background-color: #B8C5CE;
+    background-color:#4c5760;
+    color: #b8c5ce;
     font-family: 'Arial', Helvetica, sans-serif;
     font-size: 72px;
     text-align: center;
-    margin-top:  25px;
-    margin-bottom: 25px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
+    padding: 60px;
+    margin:  0;
 
+    subhead {
+        color:#E86252;
+        padding; 75%;
+    }
+    
+/* Projects
+______________________________________________________________*/
 h2 {
     font-family: 'Arial', Helvetica, sans-serif;
     color: #E86252;
@@ -29,13 +61,26 @@ h2 {
     border-bottom: 1px;
     border-color: #4c5760;
 }
+/* Work Experience
+______________________________________________________________*/
 section {
-    background-color: #F3C969;
+   
     margin-top: 25px;
     margin-bottom: 25px;
     padding: 10px;
 
 }
+/* E
+______________________________________________________________*/
 footer a:link {
     color:#F3C969;
     font-style: italic;
+} 
+
+.contact-wrap {
+    background-color: #E86252;
+}
+title {
+    margin: 100%;
+    padding: 0;
+}
